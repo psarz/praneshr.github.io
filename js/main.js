@@ -50,7 +50,7 @@ $(window).on('load', function () {
   setTimeout(function () {
     window.clearInterval(id)
     $('.peru').text('Psarz Singh')
-    $('.seira-vela').text('UI designer & Full-Stack developer')
+    $('.seira-vela').text('Linux/Unix and AWS Developer')
     $('body').css('overflow', 'auto')
     $('.rendu').css('display', 'block')
     $('.down').css('opacity', 1)
