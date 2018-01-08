@@ -49,7 +49,7 @@ $(window).on('load', function () {
   $('.percentage-container').addClass('no-width')
   setTimeout(function () {
     window.clearInterval(id)
-    $('.peru').text('Psarz Singh')
+    $('.peru').text('Bhanu Pratap Singh')
     $('.seira-vela').text('Linux/Unix and AWS Developer')
     $('body').css('overflow', 'auto')
     $('.rendu').css('display', 'block')
