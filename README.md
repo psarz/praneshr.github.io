@@ -1,4 +1,4 @@
-## This website is my personal portfolio based on the project of Ravi Pranesh
+## This website is my personal portfolio based on the html javascripts etc
 
 ###
 Copyright 2017 Bhanu Pratap Singh
